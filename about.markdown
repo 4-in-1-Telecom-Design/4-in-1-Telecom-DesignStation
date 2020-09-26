@@ -10,8 +10,6 @@ This is the base Jekyll theme. You can find out more info about customizing your
 - About Four in One Telecom Designstation
   - What’s is Four in One Telecom Designstation
   - How can I join Four in One Telecom Designstation
-  
- Testing: |
   - Where can I find Four in One Telecom Designstation products
     - Teaming up with Four in One Telecom Designstation
     
