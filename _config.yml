@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Four in One Designstation blog page.
   
 baseurl: "4-in-1-Telecom-DesignStation" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://4-in-1-telecom-design.github.io/4-in-1-Telecom-DesignStation/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  DesignofCp
 
